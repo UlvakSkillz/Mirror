@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mirror")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fdff6c6cd55a47d278a7faae269285bf05f67b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mirror")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mirror")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

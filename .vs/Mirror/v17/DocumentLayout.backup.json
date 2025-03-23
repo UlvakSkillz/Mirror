@@ -33,7 +33,8 @@
               "ToolTip": "C:\\Users\\austi\\source\\repos\\Mirror\\Mirror\\Mirror.csproj",
               "RelativeToolTip": "Mirror\\Mirror.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-18T18:20:15.078Z"
+              "WhenOpened": "2025-01-18T18:20:15.078Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -55,7 +56,7 @@
               "RelativeDocumentMoniker": "Mirror\\main.cs",
               "ToolTip": "C:\\Users\\austi\\source\\repos\\Mirror\\Mirror\\main.cs",
               "RelativeToolTip": "Mirror\\main.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwDIAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDIAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-18T18:12:28.168Z",
               "EditorCaption": ""

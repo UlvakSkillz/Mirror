@@ -1,13 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "mLdthesTh2D9CToxRI/CrJtFLkR84lkoqZXyoovRHuf4EZIGuHfbWF+QpNux4HsMY3Ne1pnwN64Nrixy3irQzg==",
+  "dgSpecHash": "JfCH8NwtdY8=",
   "success": true,
   "projectFilePath": "C:\\Users\\austi\\source\\repos\\Mirror\\Mirror\\Mirror.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\austi\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.100-preview.7.24407.12\\microsoft.net.sdk.compilers.toolset.9.0.100-preview.7.24407.12.nupkg.sha512",
-    "C:\\Users\\austi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
-    "C:\\Users\\austi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
-    "C:\\Users\\austi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512"
+    "C:\\Users\\austi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\austi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\austi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
   ],
   "logs": []
 }
